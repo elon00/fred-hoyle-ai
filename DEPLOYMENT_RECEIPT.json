@@ -1,0 +1,14 @@
+{
+  "project": "fred-hoyle-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "Cp5qH7TEUa58EBXTur3iP7hmjFH6WUmZ1Z4a1nw4nkBu",
+  "vault_account": "GRUgH8PJyBt7JwD87Lz39oX7ALpgdU3AnbrqwPHpYH9T",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "BNzcqFvpJg5FMTADZRr8jDErQeYYjPCh3sskSdEcqXWFgjbHN6sHB1Do7kx4BthS56wGxFTsSLX5dXvbgxjt8dh",
+  "account_tx": "Mcp8cVXJrffM7U5QS2z46as6eGH2mvKNHoB73nqAsCXF949MNt1GYXB4RgtDzL95gP4RzsGnprr6tBe9oR6mLHF",
+  "mint_tx": "iyHmw1UteeNE4vMpWwQ3fdPRYtHfoHzAcqYW3YmHBTpHCcEfXQvcfNqTnzDF8UTHAJBuF1BDkVY4Ka4fAVzqmqn",
+  "solana_explorer_mint": "https://explorer.solana.com/address/Cp5qH7TEUa58EBXTur3iP7hmjFH6WUmZ1Z4a1nw4nkBu?cluster=devnet",
+  "timestamp": "2026-10-26 16:32:12 UTC"
+}
